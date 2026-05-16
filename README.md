@@ -9,17 +9,17 @@
 
 ## 🚀 Sobre mim
 
-- 🧠 Atualmente estudando programação, redes e segurança
+- 🧠 Estudando programação, redes e segurança
 - 🐧 Usuário de Linux e apaixonado por sistemas
-- 🔭 Evoluindo para me tornar um desenvolvedor completo (Full Stack)
-- ⚙️ Interessado em backend, automação e engenharia de software
-- 🎯 Objetivo: entrar na área de tecnologia e criar projetos grandes
+- 🔭 Evoluindo para Full Stack Developer
+- ⚙️ Foco em backend, automação e engenharia de software
+- 🎯 Objetivo: trabalhar com tecnologia e criar projetos grandes
 
 ---
 
 ## 🧠 Tecnologias que estou aprendendo
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -32,9 +32,9 @@
 
 ---
 
-## ⚙️ Tecnologias mais avançadas que estou evoluindo
+## ⚙️ Em evolução
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
@@ -47,23 +47,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌍 Objetivos
 
-- 📌 Criar projetos open-source reais
-- 📌 Evoluir para Full Stack Developer
-- 📌 Aprender segurança ofensiva e defensiva
-- 📌 Trabalhar com sistemas e backend avançado
-- 📌 Construir algo grande na área de tecnologia
+- Criar projetos open-source reais
+- Evoluir para Full Stack Developer
+- Aprender segurança cibernética
+- Trabalhar com backend avançado
+- Construir projetos grandes na área de tecnologia
 
 ---
 
@@ -73,10 +73,8 @@
 
 ---
 
-## 📬 Contato
+## 🐍 Contribution Snake
 
-<p align="left">
-  <a href="https://linkedin.com/in/SEULINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
 </p>
