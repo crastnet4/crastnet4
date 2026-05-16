@@ -53,7 +53,7 @@
 
 ---
 
-## 💡 Frase
+## 💡 Frase do dia
 
 > “Código é pensamento transformado em máquina.”
 
