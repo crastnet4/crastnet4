@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=BYTE%20MAJESTY&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=BYTEMAJESTY&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Byte</h1>
