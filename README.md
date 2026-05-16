@@ -1,115 +1,86 @@
-BYTE // CYBERPUNK GITHUB PROFILE
-
-------------------------------------------------------------
-HEADER BANNER (COLOCAR NO README EM MARKDOWN)
-------------------------------------------------------------
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=200&section=header&text=BYTE%20SYSTEM%20ONLINE&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=BYTE%20SYSTEM%20ONLINE&fontSize=36&fontColor=00ff88&animation=fadeIn"/>
 </p>
 
-------------------------------------------------------------
-TITLE
-------------------------------------------------------------
+<h1 align="center">💀 Olá, eu sou o Byte</h1>
+<h3 align="center">💻 Estudante de programação • Linux • Cibersegurança</h3>
 
-BYTE // ROOT ACCESS
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendendo+Programação;Explorando+Linux+e+Segurança;Criando+Projetos+Reais;Sempre+evoluindo...&center=true&width=500&height=45">
+</p>
 
-Typing Animation:
-https://readme-typing-svg.herokuapp.com/?lines=Booting+System...;Loading+Developer+Profile...;Access+Granted...;Building+Future...
+---
 
-------------------------------------------------------------
-SYSTEM PROFILE
-------------------------------------------------------------
+## 🧠 Sobre mim
 
-USER: Byte
-ROLE: Student Developer
-OS: Linux
-FOCUS: Backend, Security, Systems
-STATUS: Learning / Building
-MISSION: Become Full Stack + Cybersecurity Engineer
+- 🐧 Usuário de Linux
+- 💻 Estudando programação todos os dias
+- 🔐 Interesse em cibersegurança
+- ⚙️ Foco em backend e sistemas
+- 🎯 Objetivo: virar desenvolvedor full stack
 
-------------------------------------------------------------
-CORE STACK
-------------------------------------------------------------
+---
 
-HTML
-CSS
-JavaScript
-Node.js
-Python
-Linux
-Git
-GitHub
-Docker
+## ⚡ Tecnologias que estou aprendendo
 
-------------------------------------------------------------
-GITHUB STATS (SUBSTITUIR SEUUSUARIO)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+</p>
 
-https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true
+---
 
-https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true
+## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ByteMajesty&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMajesty&theme=tokyonight&hide_border=true"/>
+</p>
 
-------------------------------------------------------------
-ACTIVITY GRAPH
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMajesty&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true
+---
 
-------------------------------------------------------------
-TROPHIES
+## 📈 Atividade no GitHub
 
-https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=onestar&no-bg=true&no-frame=true
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ByteMajesty&theme=tokyo-night&hide_border=true"/>
+</p>
 
-------------------------------------------------------------
-SNAKE (CONTRIBUTION GRAPH)
+---
 
-https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg
+## 🏆 Conquistas
 
-------------------------------------------------------------
-BADGES
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByteMajesty&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
+</p>
 
-STATUS: ACTIVE
-FOCUS: BACKEND
-LEVEL: LEARNING
-PROFILE: CYBERPUNK
+---
 
-------------------------------------------------------------
-BOOT SEQUENCE
+## 🐍 Contribuições (Snake)
 
-[ OK ] Initializing kernel...
-[ OK ] Loading Linux environment...
-[ OK ] Injecting developer modules...
-[ OK ] Connecting GitHub API...
-[ OK ] System unlocked: BYTE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByteMajesty/ByteMajesty/output/github-contribution-grid-snake.svg"/>
+</p>
 
-------------------------------------------------------------
-FOOTER BANNER
+---
 
-https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=footer
+## 🔥 Badges
 
-------------------------------------------------------------
-IMPORTANT SETUP
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ATIVO-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCO-BACKEND-00ccff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NÍVEL-APRENDIZ-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESTILO-CYBERPUNK-00ff88?style=for-the-badge"/>
+</p>
 
-1. Replace SEUUSUARIO with your GitHub username
-2. Create file:
-   .github/workflows/snake.yml
+---
 
-3. Run GitHub Actions once manually
-4. Wait for "output" branch to be created
-
-------------------------------------------------------------
-RESULT
-
-- Cyberpunk animated GitHub profile
-- Snake contribution graph (green neon)
-- Professional GitHub stats
-- Trophy system
-- Activity graph
-- Hacker-style terminal boot screen
-- Elite developer profile layout
-
-------------------------------------------------------------
-QUOTE
-
-Code is not written. It is forged.
+## 💻 Log do sistema
