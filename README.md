@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Byte</h1>
 
 <p align="center">
-  💻 <b>Estudante de programação</b> • 🐧 <b>Linux</b> • 🔐 <b>Cibersegurança</b>
+  <b>Estudante de programação</b> • <b>Linux</b> • <b>Cibersegurança</b>
 </p>
 
 <p align="center">
