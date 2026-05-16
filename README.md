@@ -16,7 +16,7 @@
 
 # 🧠 SOBRE MIM
 
-- 🧑‍💻 Nome: Byte (pode mudar aqui)
+- 🧑‍💻 Nome: Byte 
 - 🎯 Objetivo: Evoluir como desenvolvedor
 - 🐧 Sistema: Linux
 - 🔐 Interesse: Segurança e sistemas
@@ -25,8 +25,6 @@
 ---
 
 # 🚀 TECNOLOGIAS
-
-> ✏️ Edite essa parte como quiser
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
@@ -58,19 +56,13 @@
 
 > ✏️ Adicione seus projetos aqui depois
 
-- 🔧 Projeto 1 — descrição
-- 🌐 Projeto 2 — descrição
-- 🤖 Projeto 3 — descrição
-
+- 🔧 Vanta Browser — um navegador open-source leve, rápido e personalizável, focado em performance, simplicidade e experiência moderna.
+- 
 ---
 
 # 📫 CONTATO
 
-> ✏️ Coloque o que quiser aqui depois
-
 - GitHub: ByteMajesty
-- Email: (opcional)
-- Discord: (opcional)
 
 ---
 
