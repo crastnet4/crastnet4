@@ -16,11 +16,11 @@
 
 ## 🧠 Sobre mim
 
-- 👤 Nome: Byte  
-- 🎯 Objetivo: Evoluir como desenvolvedor  
-- 🐧 Sistema: Linux  
-- 🔐 Interesse: Segurança e sistemas  
-- ⚙️ Foco: Backend e automação  
+- Nome: Byte  
+- Objetivo: Evoluir como desenvolvedor  
+- Sistema: Linux  
+- Interesse: Segurança e sistemas  
+- Foco: Backend e automação  
 
 ---
 
