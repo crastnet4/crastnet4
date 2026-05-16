@@ -1,71 +1,115 @@
-<h1 align="center">👋 Olá, eu sou o Byte</h1>
-<h3 align="center">💻 Estudante • Desenvolvedor em evolução • Linux & Cibersegurança</h3>
+BYTE // CYBERPUNK GITHUB PROFILE
+
+------------------------------------------------------------
+HEADER BANNER (COLOCAR NO README EM MARKDOWN)
+------------------------------------------------------------
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendendo+Programação;Explorando+Linux+e+Segurança;Construindo+Projetos+Reais;Sempre+evoluindo...&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=200&section=header&text=BYTE%20SYSTEM%20ONLINE&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
 </p>
 
----
+------------------------------------------------------------
+TITLE
+------------------------------------------------------------
 
-## 🚀 Sobre mim
+BYTE // ROOT ACCESS
 
-- 🧠 Estudando programação, redes, infraestrutura e segurança cibernética.
-- 🐧 Usuário de Linux, fascinado por entender como os sistemas funcionam por baixo do capô.
-- ⚙️ Foco no desenvolvimento Backend, automação de processos e engenharia de software.
-- 🎯 **Objetivo:** Evoluir como Full Stack Developer, contribuir para projetos open-source e construir soluções robustas na área de tecnologia.
+Typing Animation:
+https://readme-typing-svg.herokuapp.com/?lines=Booting+System...;Loading+Developer+Profile...;Access+Granted...;Building+Future...
 
----
+------------------------------------------------------------
+SYSTEM PROFILE
+------------------------------------------------------------
 
-## 🛠️ Tecnologias e Ferramentas
+USER: Byte
+ROLE: Student Developer
+OS: Linux
+FOCUS: Backend, Security, Systems
+STATUS: Learning / Building
+MISSION: Become Full Stack + Cybersecurity Engineer
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-</p>
+------------------------------------------------------------
+CORE STACK
+------------------------------------------------------------
 
-### 🖥️ Backend & Banco de Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-</p>
+HTML
+CSS
+JavaScript
+Node.js
+Python
+Linux
+Git
+GitHub
+Docker
 
-### 🧰 Ferramentas & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-</p>
+------------------------------------------------------------
+GITHUB STATS (SUBSTITUIR SEUUSUARIO)
 
----
+https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true
 
-## 📊 GitHub Stats
+https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" />
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+------------------------------------------------------------
+ACTIVITY GRAPH
 
----
+https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true
 
-## 💡 Curiosidade
+------------------------------------------------------------
+TROPHIES
 
-> “Entender como os sistemas funcionam por baixo do capô é o que mais me motiva a codar todos os dias.”
+https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=onestar&no-bg=true&no-frame=true
 
----
+------------------------------------------------------------
+SNAKE (CONTRIBUTION GRAPH)
 
-## 🐍 Contribution Snake
+https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+------------------------------------------------------------
+BADGES
+
+STATUS: ACTIVE
+FOCUS: BACKEND
+LEVEL: LEARNING
+PROFILE: CYBERPUNK
+
+------------------------------------------------------------
+BOOT SEQUENCE
+
+[ OK ] Initializing kernel...
+[ OK ] Loading Linux environment...
+[ OK ] Injecting developer modules...
+[ OK ] Connecting GitHub API...
+[ OK ] System unlocked: BYTE
+
+------------------------------------------------------------
+FOOTER BANNER
+
+https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=footer
+
+------------------------------------------------------------
+IMPORTANT SETUP
+
+1. Replace SEUUSUARIO with your GitHub username
+2. Create file:
+   .github/workflows/snake.yml
+
+3. Run GitHub Actions once manually
+4. Wait for "output" branch to be created
+
+------------------------------------------------------------
+RESULT
+
+- Cyberpunk animated GitHub profile
+- Snake contribution graph (green neon)
+- Professional GitHub stats
+- Trophy system
+- Activity graph
+- Hacker-style terminal boot screen
+- Elite developer profile layout
+
+------------------------------------------------------------
+QUOTE
+
+Code is not written. It is forged.
