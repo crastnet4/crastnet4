@@ -14,17 +14,17 @@
 
 ---
 
-# 🧠 SOBRE MIM
+## 🧠 Sobre mim
 
-- 🧑‍💻 Nome: Byte 
-- 🎯 Objetivo: Evoluir como desenvolvedor
-- 🐧 Sistema: Linux
-- 🔐 Interesse: Segurança e sistemas
-- ⚙️ Foco: Backend / automação
+- 👤 Nome: Byte  
+- 🎯 Objetivo: Evoluir como desenvolvedor  
+- 🐧 Sistema: Linux  
+- 🔐 Interesse: Segurança e sistemas  
+- ⚙️ Foco: Backend e automação  
 
 ---
 
-# 🚀 TECNOLOGIAS
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
@@ -37,7 +37,7 @@
 
 ---
 
-# 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMajesty&theme=tokyonight&hide_border=true"/>
@@ -45,27 +45,31 @@
 
 ---
 
-# 💡 FRASE DO DIA
+## 🐍 Contribuições (Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByteMajesty/ByteMajesty/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 💡 Frase
 
 > “Código é pensamento transformado em máquina.”
 
 ---
 
-# 📌 PROJETOS
+## 📌 Projetos
 
-> ✏️ Adicione seus projetos aqui depois
+- Vanta Browser — navegador open-source leve, rápido e personalizável
 
-- 🔧 Vanta Browser — um navegador open-source leve, rápido e personalizável, focado em performance, simplicidade e experiência moderna.
-- 
 ---
 
-# 📫 CONTATO
+## 📫 Contato
 
 - GitHub: ByteMajesty
 
 ---
-
-# 🌟 ESTILO VISUAL (FOOTER)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0f0f0f&height=120&section=footer"/>
